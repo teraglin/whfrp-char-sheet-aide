@@ -243,5 +243,26 @@
       "adv": 0,
       "skill": 0
     }
+  },
+  "groupedAndAdvancedSkills": [
+    {
+      "name": "name",
+      "characteristic": "cha",
+      "characteristicValue": 0,
+      "advance": 0,
+      "skill": 0
+    }
+  ],
+  "talents": [
+    {
+      "talentName": "Talent Name",
+      "timesTaken": 1,
+      "description": "TODO: make this an array that takes talent data from another json"
+    }
+  ],
+  "ambitions": {
+    "shortTerm": "my short term ambitions...",
+    "longTerm": "my long term ambitions...",
+    "members": "party members"
   }
 }
