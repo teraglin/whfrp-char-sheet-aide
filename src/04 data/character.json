@@ -66,5 +66,182 @@
       "advances": 0,
       "current": 0
     }
+  },
+  "fate": {
+    "fate": 0,
+    "fortune": 0
+  },
+  "resiliance": {
+    "resiliance": 0,
+    "resolve": 0,
+    "motivation": 0
+  },
+  "experience": {
+    "current": 0,
+    "spent": 0,
+    "total": 0
+  },
+  "movement": {
+    "movement": 0,
+    "walk": 0,
+    "run": 0
+  },
+  "basicSkills": {
+    "art": {
+      "characteristic": "dex",
+      "characteristicValue": 0,
+      "adv": 0,
+      "skill": 0
+    },
+    "athletics": {
+      "characteristic": "dex",
+      "characteristicValue": 0,
+      "adv": 0,
+      "skill": 0
+    },
+    "bribery": {
+      "characteristic": "dex",
+      "characteristicValue": 0,
+      "adv": 0,
+      "skill": 0
+    },
+    "charm": {
+      "characteristic": "dex",
+      "characteristicValue": 0,
+      "adv": 0,
+      "skill": 0
+    },
+    "charmAnimal": {
+      "characteristic": "dex",
+      "characteristicValue": 0,
+      "adv": 0,
+      "skill": 0
+    },
+    "climb": {
+      "characteristic": "dex",
+      "characteristicValue": 0,
+      "adv": 0,
+      "skill": 0
+    },
+    "cool": {
+      "characteristic": "dex",
+      "characteristicValue": 0,
+      "adv": 0,
+      "skill": 0
+    },
+    "consumeAlcohol": {
+      "characteristic": "dex",
+      "characteristicValue": 0,
+      "adv": 0,
+      "skill": 0
+    },
+    "dodge": {
+      "characteristic": "dex",
+      "characteristicValue": 0,
+      "adv": 0,
+      "skill": 0
+    },
+    "drive": {
+      "characteristic": "dex",
+      "characteristicValue": 0,
+      "adv": 0,
+      "skill": 0
+    },
+    "endurance": {
+      "characteristic": "dex",
+      "characteristicValue": 0,
+      "adv": 0,
+      "skill": 0
+    },
+    "entertain": {
+      "characteristic": "dex",
+      "characteristicValue": 0,
+      "adv": 0,
+      "skill": 0
+    },
+    "gamble": {
+      "characteristic": "dex",
+      "characteristicValue": 0,
+      "adv": 0,
+      "skill": 0
+    },
+    "gossip": {
+      "characteristic": "dex",
+      "characteristicValue": 0,
+      "adv": 0,
+      "skill": 0
+    },
+    "haggle": {
+      "characteristic": "dex",
+      "characteristicValue": 0,
+      "adv": 0,
+      "skill": 0
+    },
+    "intimidate": {
+      "characteristic": "dex",
+      "characteristicValue": 0,
+      "adv": 0,
+      "skill": 0
+    },
+    "intuition": {
+      "characteristic": "dex",
+      "characteristicValue": 0,
+      "adv": 0,
+      "skill": 0
+    },
+    "leadership": {
+      "characteristic": "dex",
+      "characteristicValue": 0,
+      "adv": 0,
+      "skill": 0
+    },
+    "meleeBasic": {
+      "characteristic": "dex",
+      "characteristicValue": 0,
+      "adv": 0,
+      "skill": 0
+    },
+    "melee": {
+      "characteristic": "dex",
+      "characteristicValue": 0,
+      "adv": 0,
+      "skill": 0
+    },
+    "navigation": {
+      "characteristic": "dex",
+      "characteristicValue": 0,
+      "adv": 0,
+      "skill": 0
+    },
+    "outdoorSurvival": {
+      "characteristic": "dex",
+      "characteristicValue": 0,
+      "adv": 0,
+      "skill": 0
+    },
+    "perception": {
+      "characteristic": "dex",
+      "characteristicValue": 0,
+      "adv": 0,
+      "skill": 0
+    },
+    "ride": {
+      "characteristic": "dex",
+      "characteristicValue": 0,
+      "adv": 0,
+      "skill": 0
+    },
+    "row": {
+      "characteristic": "dex",
+      "characteristicValue": 0,
+      "adv": 0,
+      "skill": 0
+    },
+    "stealth": {
+      "characteristic": "dex",
+      "characteristicValue": 0,
+      "adv": 0,
+      "skill": 0
+    }
   }
 }
