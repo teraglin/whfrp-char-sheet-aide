@@ -1,0 +1,70 @@
+{
+  "descriptors": {
+    "player": "",
+    "name": "",
+    "species": "",
+    "class": "",
+    "career": "",
+    "careerTier": "",
+    "careerPath": "",
+    "size": "",
+    "status": "",
+    "age": "",
+    "height": "",
+    "hair": "",
+    "eyes": "",
+    "starSign": ""
+  },
+  "characteristics": {
+    "ws": {
+      "initial": 0,
+      "advances": 0,
+      "current": 0
+    },
+    "bs": {
+      "initial": 0,
+      "advances": 0,
+      "current": 0
+    },
+    "s": {
+      "initial": 0,
+      "advances": 0,
+      "current": 0
+    },
+    "t": {
+      "initial": 0,
+      "advances": 0,
+      "current": 0
+    },
+    "i": {
+      "initial": 0,
+      "advances": 0,
+      "current": 0
+    },
+    "ag": {
+      "initial": 0,
+      "advances": 0,
+      "current": 0
+    },
+    "dex": {
+      "initial": 0,
+      "advances": 0,
+      "current": 0
+    },
+    "int": {
+      "initial": 0,
+      "advances": 0,
+      "current": 0
+    },
+    "wp": {
+      "initial": 0,
+      "advances": 0,
+      "current": 0
+    },
+    "fel": {
+      "initial": 0,
+      "advances": 0,
+      "current": 0
+    }
+  }
+}
